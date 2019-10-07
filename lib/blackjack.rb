@@ -9,7 +9,7 @@ def deal_card
 end
 
 def display_card_total(card)
- binding.pry
+ #binding.pry
   puts "Your card is" + ${card}
 end
 
