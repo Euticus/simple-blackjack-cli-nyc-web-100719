@@ -10,7 +10,7 @@ end
 
 def display_card_total(card)
  binding.pry
-  puts 'Your cards add up to' card
+  puts  card
 end
 
 def prompt_user
