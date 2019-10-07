@@ -26,7 +26,7 @@ def end_game(card)
 end
 
 def initial_round
-  # code #initial_round here
+  12
 end
 
 def hit?
