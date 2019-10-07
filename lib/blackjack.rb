@@ -22,7 +22,7 @@ def get_user_input
 end
 
 def end_game
-  # code #end_game here
+  puts "Sorry and thanks!"
 end
 
 def initial_round
