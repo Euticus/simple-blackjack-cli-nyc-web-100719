@@ -25,8 +25,8 @@ def end_game(card)
   puts "Sorry, you hit #{card}. Thanks for playing!"
 end
 
-def initial_round
-  12
+def initial_round(dice_one, dice_two)
+  
 end
 
 def hit?
